@@ -4,7 +4,7 @@
 
 This project analyzes Diwali sales data to uncover customer behavior,
 purchasing patterns, and key insights that can help improve business
-strategies during festive seasons.\
+strategies during festive seasons.
 The analysis was performed using **Python, Pandas, Matplotlib, and
 Seaborn**.
 
@@ -40,23 +40,23 @@ pip install pandas numpy matplotlib seaborn jupyter
 ## 🧾 Steps Performed
 
 1.  **Data Loading**
-    -   Used Pandas to read the dataset (`read_csv` / `read_excel`)\
+    -   Used Pandas to read the dataset (`read_csv` / `read_excel`)
     -   Handled encoding issues with `unicode_escape`
 2.  **Data Cleaning**
-    -   Removed irrelevant columns: `Status`, `unnamed1`\
-    -   Checked for null values and handled missing data\
+    -   Removed irrelevant columns: `Status`, `unnamed1`
+    -   Checked for null values and handled missing data
     -   Converted data types where required
 3.  **Exploratory Data Analysis (EDA)**
     -   Analyzed sales by **gender, age group, occupation, marital
-        status, and state**\
-    -   Studied **top-selling product categories & sub-categories**\
+        status, and state**
+    -   Studied **top-selling product categories & sub-categories**
     -   Visualized spending patterns using **bar charts, histograms, and
         count plots**
 4.  **Insights**
     -   Most buyers were **married women** aged **26--35 years**,
-        working in the **IT sector**\
+        working in the **IT sector**
     -   Top contributing states: **Uttar Pradesh, Maharashtra, and
-        Karnataka**\
+        Karnataka**
     -   Most sold product categories: **Food, Clothing & Electronics**
 
 ------------------------------------------------------------------------
@@ -74,7 +74,7 @@ Customer **Occupation Analysis**
 1.  Clone this repository:
 
     ``` bash
-    git clone https://github.com/yourusername/diwali-sales-analysis.git
+    git clone https://github.com/itsvishal1012/Diwali_Sale_Analysis.git
     ```
 
 2.  Open Jupyter Notebook:
@@ -89,8 +89,8 @@ Customer **Occupation Analysis**
 
 ## 🙌 Acknowledgments
 
--   Dataset: Provided for educational purposes\
--   Inspired by Data Analytics projects on festive sales\
+-   Dataset: Provided for educational purposes
+-   Inspired by Data Analytics projects on festive sales
 -   Tools used: **Python, Pandas, Matplotlib, Seaborn, Jupyter
     Notebook**
 
